@@ -1,2 +1,2 @@
-# Ai.Jeffstudeo
+# Ai.Jeffstudio
 AI video generator 
